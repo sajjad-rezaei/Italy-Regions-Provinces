@@ -1,0 +1,49 @@
+html {
+    font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.table {
+    border: none;
+}
+
+
+
+.table td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.page-item > * {
+    border: none;
+}
+.bi-eye-fill{
+    font-size: 16px;
+    color: #001eff;
+    cursor: pointer;
+}
+.hidden{
+    display: none;
+}
+.show{
+    display: block;
+}
+.seminor-login-modal-body .close{
+    position: relative;
+    top: -45px;
+    left: 10px;
+   color: #1cd8ad;
+   }
+   .seminor-login-modal-body .close{
+       opacity:0.75;
+   }
+   
+   .seminor-login-modal-body .close:focus, .seminor-login-modal-body .close:hover {
+       color: #39e8b0;
+    opacity: 1;
+    text-decoration: none;
+    outline:0;
+   }
+   .modal-content{
+       background-color: #f6f6f6;
+   }
